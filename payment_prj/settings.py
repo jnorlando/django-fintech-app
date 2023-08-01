@@ -48,7 +48,7 @@ INSTALLED_APPS = [
     'core',
     'userauths',
     'account',
-   # "storages",
+    "storages",
     
     
 ]
